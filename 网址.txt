@@ -1,19 +1,19 @@
-ÕÒÆ±Íø£º
-http://hq.imeigu.com/list.jsp?type=2 ÃÀ¹É×¨ÓÃ
-http://www.alpha-group.ca/ ¼Ó¹É×¨ÓÃ
+ï»¿ä¸­æ–‡
+http://hq.imeigu.com/list.jsp?type=2 ÃƒÃ€Â¹Ã‰Ã—Â¨Ã“Ãƒ
+http://www.alpha-group.ca/ Â¼Ã“Â¹Ã‰Ã—Â¨Ã“Ãƒ
 http://www.chineseworldnet.com/na/stock/marketDataGroup/active_stock/6?cn_tag=yes
 http://stockcharts.com/def/servlet/SC.scan
 http://www.trade-ideas.com/StockInfo/_ScreenerConfig.html
 http://globeinvestor.com/v5/content/filters
 
-¿´ÏûÏ¢Íø£º
+
 http://www.nasdaq.com/markets/us-economic-calendar.aspx
 http://www.quote123.com/
 http://www.fx168.com/fxnews/key_suggestion_html_index.aspx
 http://www.marketw
 http://blog.sina.com.cn/meiguhangqingatch.com/
 
-¿´Í¼ÍøÕ¾£º
+
 http://www.freestockcharts.com/
 http://www.tc2000.com/
 http://stockcharts.com/
@@ -32,113 +32,112 @@ www.tmx.com
 http://globeinvestor.com/v5/content/filters
 
 http://www.trade-ideas.com/StockInfo/_ScreenerConfig.html
-Í¦²»´íµÄÑ¡¹ÉÍø..
+ÃÂ¦Â²Â»Â´Ã­ÂµÃ„Ã‘Â¡Â¹Ã‰ÃÃ¸..
 
 
-¿´Í¼Èí¼ş  ´ó¼Ò¶¼ÖªµÀ    http://www.freestockcharts.com/
+Â¿Â´ÃÂ¼ÃˆÃ­Â¼Ã¾  Â´Ã³Â¼Ã’Â¶Â¼Ã–ÂªÂµÃ€    http://www.freestockcharts.com/
 
-¼¼ÊõÑ¡¹ÉÍøÕ¾  http://stockcharts.com/def/servlet/SC.scan
+Â¼Â¼ÃŠÃµÃ‘Â¡Â¹Ã‰ÃÃ¸Ã•Â¾  http://stockcharts.com/def/servlet/SC.scan
 http://www.dailyfx.com.hk/
-²Æ¾­ÊÂ¼ş
+Â²Ã†Â¾Â­ÃŠÃ‚Â¼Ã¾
 www.marketwatch.com
-ÑÅ»¢²Æ¾­ finance.yahoo.com
+Ã‘Ã…Â»Â¢Â²Ã†Â¾Â­ finance.yahoo.com
 
-www.quote123.com ÃÀ¹ÉµÄĞÂÎÅ£¬Éı½µ¼¶¹ÉÆ±
+www.quote123.com ÃƒÃ€Â¹Ã‰ÂµÃ„ÃÃ‚ÃÃ…Â£Â¬Ã‰Ã½Â½ÂµÂ¼Â¶Â¹Ã‰Ã†Â±
 
 
 http://www.streetinsider.com/
-ÏûÏ¢ÍøÕ¾.ÊÕ¹º.²¢¹º.IPO.µÈµÈ..
-Ò»¸öIP¿ÉÒÔÉêÇëÒ»¸öÃâ·Ñ14ÌìµÄÕÊ»§.¹ıÆÚºó...ºÙºÙ!»¹ÊÇÓĞ°ì·¨¼ÌĞøÃâ·ÑÓÃµÎ.
-www.fx168.com ÕâÊÇ¸öÍâ»ãµÄÍøÕ¾£¬µ«ÀïÃæÓĞ¸ö»ğÏßËÙµİ ¶ÔÎÒÃÇºÜÓĞÓÃ£¬Ã¿Ìì¸÷ÏîÖ¸±ê¹«²¼£¬´óµÄĞÂÎÅ¸üĞÂ·Ç³£¿ì£¬¶øÇÒÊÇÖĞÎÄ°æ£¬¹«Ë¾ÓĞÍøÂçÏŞÖÆµÄÇé¿öÏÂÒ²ÄÜÉÏ¡£µ±È»ÓĞÊ±»¹¿ÉÒÔ¿´¿´Íâ»ãÅÆ¼ÛÒ²²»´í¡£ÒÔÇ°±¾ÈË×öÍâ»ãÊ±ºòÄÇ¸ö¹«Ë¾ÍÆ¼öµÄ£¬´ó¼Ò¿ÉÒÔ¿´¿´¡£
+ÃÃ»ÃÂ¢ÃÃ¸Ã•Â¾.ÃŠÃ•Â¹Âº.Â²Â¢Â¹Âº.IPO.ÂµÃˆÂµÃˆ..
+Ã’Â»Â¸Ã¶IPÂ¿Ã‰Ã’Ã”Ã‰ÃªÃ‡Ã«Ã’Â»Â¸Ã¶ÃƒÃ¢Â·Ã‘14ÃŒÃ¬ÂµÃ„Ã•ÃŠÂ»Â§.Â¹Ã½Ã†ÃšÂºÃ³...ÂºÃ™ÂºÃ™!Â»Â¹ÃŠÃ‡Ã“ÃÂ°Ã¬Â·Â¨Â¼ÃŒÃÃ¸ÃƒÃ¢Â·Ã‘Ã“ÃƒÂµÃ.
+www.fx168.com Ã•Ã¢ÃŠÃ‡Â¸Ã¶ÃÃ¢Â»Ã£ÂµÃ„ÃÃ¸Ã•Â¾Â£Â¬ÂµÂ«Ã€Ã¯ÃƒÃ¦Ã“ÃÂ¸Ã¶Â»Ã°ÃÃŸÃ‹Ã™ÂµÃ Â¶Ã”ÃÃ’ÃƒÃ‡ÂºÃœÃ“ÃÃ“ÃƒÂ£Â¬ÃƒÂ¿ÃŒÃ¬Â¸Ã·ÃÃ®Ã–Â¸Â±ÃªÂ¹Â«Â²Â¼Â£Â¬Â´Ã³ÂµÃ„ÃÃ‚ÃÃ…Â¸Ã¼ÃÃ‚Â·Ã‡Â³Â£Â¿Ã¬Â£Â¬Â¶Ã¸Ã‡Ã’ÃŠÃ‡Ã–ÃÃÃ„Â°Ã¦Â£Â¬Â¹Â«Ã‹Â¾Ã“ÃÃÃ¸Ã‚Ã§ÃÃÃ–Ã†ÂµÃ„Ã‡Ã©Â¿Ã¶ÃÃ‚Ã’Â²Ã„ÃœÃ‰ÃÂ¡Â£ÂµÂ±ÃˆÂ»Ã“ÃÃŠÂ±Â»Â¹Â¿Ã‰Ã’Ã”Â¿Â´Â¿Â´ÃÃ¢Â»Ã£Ã…Ã†Â¼Ã›Ã’Â²Â²Â»Â´Ã­Â¡Â£Ã’Ã”Ã‡Â°Â±Â¾ÃˆÃ‹Ã—Ã¶ÃÃ¢Â»Ã£ÃŠÂ±ÂºÃ²Ã„Ã‡Â¸Ã¶Â¹Â«Ã‹Â¾ÃÃ†Â¼Ã¶ÂµÃ„Â£Â¬Â´Ã³Â¼Ã’Â¿Ã‰Ã’Ã”Â¿Â´Â¿Â´Â¡Â£
 
 
-http://blog.sina.com.cn/u/2471577922  ĞÂÀËatÃÀ¹É
+http://blog.sina.com.cn/u/2471577922  ÃÃ‚Ã€Ã‹atÃƒÃ€Â¹Ã‰
 
 http://www.chineseworldnet.com/na/stock/marketDataGroup/active_stock/6
 http://www.finviz.com/
 
-finance.google.com ¹È¸è²Æ¾­
+finance.google.com Â¹ÃˆÂ¸Ã¨Â²Ã†Â¾Â­
 
 
 
-http://www.imeigu.com/ÖĞÎÄµÄÃÀ¹ÉÍøÕ¾,http://finance.sina.com.cn/stock/usstock/
+http://www.imeigu.com/Ã–ÃÃÃ„ÂµÃ„ÃƒÃ€Â¹Ã‰ÃÃ¸Ã•Â¾,http://finance.sina.com.cn/stock/usstock/
 
-¿´kÏßµÄhttp://www.freestockcharts.com/
+Â¿Â´kÃÃŸÂµÃ„http://www.freestockcharts.com/
 http://www.tc2000.com/
-²éÏûÏ¢Ñ¡¹ÉµÄ
+Â²Ã©ÃÃ»ÃÂ¢Ã‘Â¡Â¹Ã‰ÂµÃ„
 http://www.globeinvestor.com/v5/content/filters
-²éÏûÏ¢µÄ
+Â²Ã©ÃÃ»ÃÂ¢ÂµÃ„
 http://ca.finance.yahoo.com/news/category-stocks/
-·­ÒëµÄ
+Â·Â­Ã’Ã«ÂµÃ„
 http://translate.google.cn/#
-µçÄÔÑ¡¹É
+ÂµÃ§Ã„Ã”Ã‘Â¡Â¹Ã‰
 http://www.chineseworldnet.com/na/stock/investToolGroup/stock_computer_choose
 
-¿´Í¼µÄ  www.alphatrade.com
+Â¿Â´ÃÂ¼ÂµÃ„  www.alphatrade.com
 http://www.bloomberg.com/
 http://finance.yahoo.com/
 http://quote123.com
-http://seekingalpha.com/  ¿´ÏûÏ¢µÄÍøÕ¾,ĞÂÀËÃÀ¹ÉÃ¿ÌìµÄ»ª¶û½ÖÔç²Í¾ÍÊÇ´ÓÕâÀï·­Òë¹ıÈ¥µÄ
+http://seekingalpha.com/  Â¿Â´ÃÃ»ÃÂ¢ÂµÃ„ÃÃ¸Ã•Â¾,ÃÃ‚Ã€Ã‹ÃƒÃ€Â¹Ã‰ÃƒÂ¿ÃŒÃ¬ÂµÃ„Â»ÂªÂ¶Ã»Â½Ã–Ã”Ã§Â²ÃÂ¾ÃÃŠÃ‡Â´Ã“Ã•Ã¢Ã€Ã¯Â·Â­Ã’Ã«Â¹Ã½ÃˆÂ¥ÂµÃ„
 
-Ñ¡¹É£ºhttp://finviz.com/screener.ashx?v=111&f=exch_nyse&ft=2
+Ã‘Â¡Â¹Ã‰Â£Âºhttp://finviz.com/screener.ashx?v=111&f=exch_nyse&ft=2
 
-µ±ÈÕÃÀ¹úÖØ´óÏûÏ¢·¢²¼£ºhttp://www.nasdaq.com/markets/us-economic-calendar.aspx
+ÂµÂ±ÃˆÃ•ÃƒÃ€Â¹ÃºÃ–Ã˜Â´Ã³ÃÃ»ÃÂ¢Â·Â¢Â²Â¼Â£Âºhttp://www.nasdaq.com/markets/us-economic-calendar.aspx
 
-¹«Ë¾ºÏ²¢ĞÅÏ¢:http://mergerinvesting.com/
-Ã¿ÈÕĞÂÎÅ:http://www.nasdaq.com/markets/us-economic-calendar.aspx
+Â¹Â«Ã‹Â¾ÂºÃÂ²Â¢ÃÃ…ÃÂ¢:http://mergerinvesting.com/
+ÃƒÂ¿ÃˆÃ•ÃÃ‚ÃÃ…:http://www.nasdaq.com/markets/us-economic-calendar.aspx
 earning:http://earnings.com/highlight.asp?client=cb
-²»ÄÜ¿ÕµÄÆ±:http://nasdaqtrader.com/trader.aspx?id=ShortSaleCircuitBreaker
-http://www.marketwatch.com/tools/stockresearch/screener/ÕÒ¹ÉÆ±µÄ
+Â²Â»Ã„ÃœÂ¿Ã•ÂµÃ„Ã†Â±:http://nasdaqtrader.com/trader.aspx?id=ShortSaleCircuitBreaker
+http://www.marketwatch.com/tools/stockresearch/screener/Ã•Ã’Â¹Ã‰Ã†Â±ÂµÃ„
 
 http://eoddata.com/symbols.aspx
-°´×ÖÄ¸²é¹ÉÆ±
-wallstreetcn.com/node/  »ª¶û½Ö¼ûÎÅ
+Â°Â´Ã—Ã–Ã„Â¸Â²Ã©Â¹Ã‰Ã†Â±
+wallstreetcn.com/node/  Â»ÂªÂ¶Ã»Â½Ã–Â¼Ã»ÃÃ…
 
 
-°´ÕÕµ±ÌìÕÇµø·ù£¬ÒÔÑÕÉ«ÉîÇ³ÅÅÁĞ¹ÉÆ±¡£»¹¿ÉÒÔ°´µØÓòºÍĞĞÒµ¼ìË÷£¡
+Â°Â´Ã•Ã•ÂµÂ±ÃŒÃ¬Ã•Ã‡ÂµÃ¸Â·Ã¹Â£Â¬Ã’Ã”Ã‘Ã•Ã‰Â«Ã‰Ã®Ã‡Â³Ã…Ã…ÃÃÂ¹Ã‰Ã†Â±Â¡Â£Â»Â¹Â¿Ã‰Ã’Ã”Â°Â´ÂµÃ˜Ã“Ã²ÂºÃÃÃÃ’ÂµÂ¼Ã¬Ã‹Ã·Â£Â¡
 http://stockmapper.com/
 
 
-ºÅÍâÕûÀí:
-http://stockcharts.com   ¼¼ÊõÍ¼±í¹¦ÄÜÇ¿´ó£¬²Ù×÷½çÃæÖ±¹Û£¬ÓĞÃâ·Ñ·şÎñºÍ»áÔ±ÊÕ·Ñ·şÎñ
+http://stockcharts.com   Â¼Â¼ÃŠÃµÃÂ¼Â±Ã­Â¹Â¦Ã„ÃœÃ‡Â¿Â´Ã³Â£Â¬Â²Ã™Ã—Ã·Â½Ã§ÃƒÃ¦Ã–Â±Â¹Ã›Â£Â¬Ã“ÃÃƒÃ¢Â·Ã‘Â·Ã¾ÃÃ±ÂºÃÂ»Ã¡Ã”Â±ÃŠÃ•Â·Ã‘Â·Ã¾ÃÃ±
 
-http://bigcharts.marketwatch.com    ÓĞÒ»Ğ©¶ÀÌØµÄ¼¼ÊõÍ¼ĞÎÖ¸±êºÍMarketWatchÌá¹©µÄÆóÒµÑĞ¾¿±¨¸æ£¬Ãâ·Ñ·şÎñ
+http://bigcharts.marketwatch.com    Ã“ÃÃ’Â»ÃÂ©Â¶Ã€ÃŒÃ˜ÂµÃ„Â¼Â¼ÃŠÃµÃÂ¼ÃÃÃ–Â¸Â±ÃªÂºÃMarketWatchÃŒÃ¡Â¹Â©ÂµÃ„Ã†Ã³Ã’ÂµÃ‘ÃÂ¾Â¿Â±Â¨Â¸Ã¦Â£Â¬ÃƒÃ¢Â·Ã‘Â·Ã¾ÃÃ±
 
-http://www.prophet.net/analyze/sc.jsp    Õâ¸öÍøÕ¾²»ÈçÇ°ÃæÁ½¸öÖªÃû£¬µ«ËüÓĞÒ»Ğ©¶ÀÌØµÄ¼¼Êõ·ÖÎöÖ¸±ê
+http://www.prophet.net/analyze/sc.jsp    Ã•Ã¢Â¸Ã¶ÃÃ¸Ã•Â¾Â²Â»ÃˆÃ§Ã‡Â°ÃƒÃ¦ÃÂ½Â¸Ã¶Ã–ÂªÃƒÃ»Â£Â¬ÂµÂ«Ã‹Ã¼Ã“ÃÃ’Â»ÃÂ©Â¶Ã€ÃŒÃ˜ÂµÃ„Â¼Â¼ÃŠÃµÂ·Ã–ÃÃ¶Ã–Â¸Â±Ãª
 
-http://www.quotetracker.com      Ãâ·ÑµÄ¼´Ê±±¨¼ÛºÍ¼¼Êõ·ÖÎöÈí¼ş£¬¹¦ÄÜÇ¿´ó£¬ĞèÒªÓĞÈ¯ÉÌ½»Ò×ÕÊºÅ
-
-
-http://bigcharts.marketwatch.com/industry/bigcharts-com     ĞĞÒµ·ÖÀàÁĞ±í£¬²»Í¬Ê±¼ä¶ÎµÄĞĞÒµºÍÀà¹ÉÇ¿ÈõÅÅĞò
-
-http://clearstation.etrade.com      ¿É¸ù¾İ²»Í¬µÄ¼¼ÊõÖ¸±êºÍ»ù±¾ÃæÊı¾İÅÅÁĞĞĞÒµºÍ¸ö¹É
-
-http://www2.barchart.com/sectors.asp?base=industry    ¸ÃÍøÕ¾ÓÃÌØÓĞµÄWeighted Alpha¶ÔĞĞÒµºÍÀà¹É½øĞĞÇ¿ÈõÅÅĞò
-
-http://stockcharts.com/def/servlet/SC.scan     ¸ÃÕ¾Ã¿Ìì¸ù¾İ¶àÖÖ¼¼ÊõÖ¸±ê×Ô¶¯ËÑË÷ÃÀ¹úºÍ¼ÓÄÃ´óµÄ¹ÉÆ±ºÍ¹«¹²»ù½ğ
-
-http://biz.yahoo.com/r/    ·Ç³£È«ÃæµÄ±±ÃÀÆóÒµĞÂÎÅ¡¢²ÆÎñÊı¾İ¡¢ÄÚÏß½»Ò×ºÍ¾ºÕùÆóÒµ±È½ÏµÈ
-
-http://www.investor.reuters.com/StockEntry.aspx    ÓëYahoo FinanceµÄÄÚÈİÀàËÆ£¬ĞèÒª×¢²áÃâ·Ñ»áÔ±
-
-http://www.marketwatch.com/news     ¼°Ê±¡¢È«ÃæµÄ±±ÃÀ²Æ¾­±¨µÀºÍ¹ÉÊĞÆÀÂÛ£¬»°Ìâ¹ã·º¡¢ÄÚÈİÏêÊµ
-
-http://biz.yahoo.com/top.html    ×ªÔØ¶à¼ÒĞÂÎÅ»ú¹¹µÄ±±ÃÀ¹ÉÊĞ±¨µÀ£¬·ÖÃÅ±ğÀà£¬¸üĞÂ¼°Ê±
-
-http://mam.econoday.com     ±±ÃÀ²Æ¾­ÈÕÀú£¬º¬¸÷ÖÖ¾­¼ÃÖ¸±êµÄÀúÊ·Í¼±í£©
-
-http://www.investopedia.com/university    ÉîÈëÇ³³öµÄÍ¶×Ê½ÌÓıÎÄÕÂºÍ²Æ¾­´Êµä
-
-http://stockcharts.com/school/doku.php?id=chart_school   ¼¼Êõ·ÖÎö·½ÃæµÄÎÄÕÂ£¬ÅäÍ¼½²½â£¬Ç³ÏÔÒ×¶®
-
-http://www.marketscreen.com/help/AtoZ/     È«Ãæ¡¢Ïê¾¡µÄ¼¼Êõ·ÖÎö½ÌÑ§
+http://www.quotetracker.com      ÃƒÃ¢Â·Ã‘ÂµÃ„Â¼Â´ÃŠÂ±Â±Â¨Â¼Ã›ÂºÃÂ¼Â¼ÃŠÃµÂ·Ã–ÃÃ¶ÃˆÃ­Â¼Ã¾Â£Â¬Â¹Â¦Ã„ÃœÃ‡Â¿Â´Ã³Â£Â¬ÃÃ¨Ã’ÂªÃ“ÃÃˆÂ¯Ã‰ÃŒÂ½Â»Ã’Ã—Ã•ÃŠÂºÃ…
 
 
-http://www.cme.com        Ö¥¼Ó¸çÉÌÒµ½»Ò×Ëù£¬E-miniÖ¸ÊıÆÚ»õÔÚ´Ë½»Ò×£¬ÓĞÖĞÎÄ
+http://bigcharts.marketwatch.com/industry/bigcharts-com     ÃÃÃ’ÂµÂ·Ã–Ã€Ã ÃÃÂ±Ã­Â£Â¬Â²Â»ÃÂ¬ÃŠÂ±Â¼Ã¤Â¶ÃÂµÃ„ÃÃÃ’ÂµÂºÃÃ€Ã Â¹Ã‰Ã‡Â¿ÃˆÃµÃ…Ã…ÃÃ²
 
-http://www.cbot.com   Ö¥¼Ó¸çÉÌÆ·½»Ò×Ëù£¬µÀÇíË¹Ö¸ÊıÆÚ»õÔÚ´Ë½»Ò×£¬ÓĞÖĞÎÄ
+http://clearstation.etrade.com      Â¿Ã‰Â¸Ã¹Â¾ÃÂ²Â»ÃÂ¬ÂµÃ„Â¼Â¼ÃŠÃµÃ–Â¸Â±ÃªÂºÃÂ»Ã¹Â±Â¾ÃƒÃ¦ÃŠÃ½Â¾ÃÃ…Ã…ÃÃÃÃÃ’ÂµÂºÃÂ¸Ã¶Â¹Ã‰
+
+http://www2.barchart.com/sectors.asp?base=industry    Â¸ÃƒÃÃ¸Ã•Â¾Ã“ÃƒÃŒÃ˜Ã“ÃÂµÃ„Weighted AlphaÂ¶Ã”ÃÃÃ’ÂµÂºÃÃ€Ã Â¹Ã‰Â½Ã¸ÃÃÃ‡Â¿ÃˆÃµÃ…Ã…ÃÃ²
+
+http://stockcharts.com/def/servlet/SC.scan     Â¸ÃƒÃ•Â¾ÃƒÂ¿ÃŒÃ¬Â¸Ã¹Â¾ÃÂ¶Ã Ã–Ã–Â¼Â¼ÃŠÃµÃ–Â¸Â±ÃªÃ—Ã”Â¶Â¯Ã‹Ã‘Ã‹Ã·ÃƒÃ€Â¹ÃºÂºÃÂ¼Ã“Ã„ÃƒÂ´Ã³ÂµÃ„Â¹Ã‰Ã†Â±ÂºÃÂ¹Â«Â¹Â²Â»Ã¹Â½Ã°
+
+http://biz.yahoo.com/r/    Â·Ã‡Â³Â£ÃˆÂ«ÃƒÃ¦ÂµÃ„Â±Â±ÃƒÃ€Ã†Ã³Ã’ÂµÃÃ‚ÃÃ…Â¡Â¢Â²Ã†ÃÃ±ÃŠÃ½Â¾ÃÂ¡Â¢Ã„ÃšÃÃŸÂ½Â»Ã’Ã—ÂºÃÂ¾ÂºÃ•Ã¹Ã†Ã³Ã’ÂµÂ±ÃˆÂ½ÃÂµÃˆ
+
+http://www.investor.reuters.com/StockEntry.aspx    Ã“Ã«Yahoo FinanceÂµÃ„Ã„ÃšÃˆÃÃ€Ã Ã‹Ã†Â£Â¬ÃÃ¨Ã’ÂªÃ—Â¢Â²Ã¡ÃƒÃ¢Â·Ã‘Â»Ã¡Ã”Â±
+
+http://www.marketwatch.com/news     Â¼Â°ÃŠÂ±Â¡Â¢ÃˆÂ«ÃƒÃ¦ÂµÃ„Â±Â±ÃƒÃ€Â²Ã†Â¾Â­Â±Â¨ÂµÃ€ÂºÃÂ¹Ã‰ÃŠÃÃ†Ã€Ã‚Ã›Â£Â¬Â»Â°ÃŒÃ¢Â¹Ã£Â·ÂºÂ¡Â¢Ã„ÃšÃˆÃÃÃªÃŠÂµ
+
+http://biz.yahoo.com/top.html    Ã—ÂªÃ”Ã˜Â¶Ã Â¼Ã’ÃÃ‚ÃÃ…Â»ÃºÂ¹Â¹ÂµÃ„Â±Â±ÃƒÃ€Â¹Ã‰ÃŠÃÂ±Â¨ÂµÃ€Â£Â¬Â·Ã–ÃƒÃ…Â±Ã°Ã€Ã Â£Â¬Â¸Ã¼ÃÃ‚Â¼Â°ÃŠÂ±
+
+http://mam.econoday.com     Â±Â±ÃƒÃ€Â²Ã†Â¾Â­ÃˆÃ•Ã€ÃºÂ£Â¬ÂºÂ¬Â¸Ã·Ã–Ã–Â¾Â­Â¼ÃƒÃ–Â¸Â±ÃªÂµÃ„Ã€ÃºÃŠÂ·ÃÂ¼Â±Ã­Â£Â©
+
+http://www.investopedia.com/university    Ã‰Ã®ÃˆÃ«Ã‡Â³Â³Ã¶ÂµÃ„ÃÂ¶Ã—ÃŠÂ½ÃŒÃ“Ã½ÃÃ„Ã•Ã‚ÂºÃÂ²Ã†Â¾Â­Â´ÃŠÂµÃ¤
+
+http://stockcharts.com/school/doku.php?id=chart_school   Â¼Â¼ÃŠÃµÂ·Ã–ÃÃ¶Â·Â½ÃƒÃ¦ÂµÃ„ÃÃ„Ã•Ã‚Â£Â¬Ã…Ã¤ÃÂ¼Â½Â²Â½Ã¢Â£Â¬Ã‡Â³ÃÃ”Ã’Ã—Â¶Â®
+
+http://www.marketscreen.com/help/AtoZ/     ÃˆÂ«ÃƒÃ¦Â¡Â¢ÃÃªÂ¾Â¡ÂµÃ„Â¼Â¼ÃŠÃµÂ·Ã–ÃÃ¶Â½ÃŒÃ‘Â§
 
 
-http://www.rb-trading.com/begin.html   Õë¶Ô³õÑ§ÕßµÄ½ÌÓıĞÔÎÄÕÂ
+http://www.cme.com        Ã–Â¥Â¼Ã“Â¸Ã§Ã‰ÃŒÃ’ÂµÂ½Â»Ã’Ã—Ã‹Ã¹Â£Â¬E-miniÃ–Â¸ÃŠÃ½Ã†ÃšÂ»ÃµÃ”ÃšÂ´Ã‹Â½Â»Ã’Ã—Â£Â¬Ã“ÃÃ–ÃÃÃ„
 
-http://new.quote.com/futures¸÷ÖÖÆÚ»õºÏÔ¼µÄ±¨¼ÛºÍ×ßÊÆÍ¼£¬ÁíÓĞ±±ÃÀ¹ÉÆ±¡¢»ù½ğºÍÍâ»ãµÄ±¨¼Û
+http://www.cbot.com   Ã–Â¥Â¼Ã“Â¸Ã§Ã‰ÃŒÃ†Â·Â½Â»Ã’Ã—Ã‹Ã¹Â£Â¬ÂµÃ€Ã‡Ã­Ã‹Â¹Ã–Â¸ÃŠÃ½Ã†ÃšÂ»ÃµÃ”ÃšÂ´Ã‹Â½Â»Ã’Ã—Â£Â¬Ã“ÃÃ–ÃÃÃ„
+
+
+http://www.rb-trading.com/begin.html   Ã•Ã«Â¶Ã”Â³ÃµÃ‘Â§Ã•ÃŸÂµÃ„Â½ÃŒÃ“Ã½ÃÃ”ÃÃ„Ã•Ã‚
+
+http://new.quote.com/futuresÂ¸Ã·Ã–Ã–Ã†ÃšÂ»ÃµÂºÃÃ”Â¼ÂµÃ„Â±Â¨Â¼Ã›ÂºÃÃ—ÃŸÃŠÃ†ÃÂ¼Â£Â¬ÃÃ­Ã“ÃÂ±Â±ÃƒÃ€Â¹Ã‰Ã†Â±Â¡Â¢Â»Ã¹Â½Ã°ÂºÃÃÃ¢Â»Ã£ÂµÃ„Â±Â¨Â¼Ã›
