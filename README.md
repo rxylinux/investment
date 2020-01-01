@@ -1,1 +1,1 @@
-# learn stock
+# learn how to invest
